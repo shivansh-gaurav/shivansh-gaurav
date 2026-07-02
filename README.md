@@ -18,12 +18,6 @@
 - **Frameworks & Libraries**: React.js, Pandas, PyTorch, LightGBM
 - **Tools & Ecosystems**: Git, VS Code, Vercel, Unity Engine, ESP32
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivansh-gaurav&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=434D56" alt="Shivansh's GitHub stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-gaurav&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=434D56" alt="Top Languages" height="192px"/>
-</p>
-
 ### 📫 Let's Connect
 - **LinkedIn**: [linkedin.com/in/shivansh-gaurav](https://linkedin.com/in/shivansh-gaurav)
 - **Email**: shivansh.gaurav.dev@gmail.com
